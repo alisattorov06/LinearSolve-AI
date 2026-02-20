@@ -1,0 +1,7 @@
+{
+  "name": "LinearSolve - Chiziqli Algebra Masalalar Yechuvchisi",
+  "description": "Chiziqli algebra fanidan misol va masalalarni AI yordamida yechish uchun mukammal platforma. OCR va PDF eksport funksiyalari bilan.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
